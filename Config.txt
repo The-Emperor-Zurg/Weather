@@ -1,0 +1,1 @@
+{"cities":["Moscow","Saint Petersburg"],"days":4,"frequency":3600}
